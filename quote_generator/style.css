@@ -1,0 +1,24 @@
+h2{
+    font-family: monospace;
+    text-align: center;
+}
+
+body{
+    background-color: #fbcdf8;
+}
+
+.container {
+    width: 600px;
+    height: 300px;
+    background-color: whitesmoke;
+    border: 2px solid black;
+    border-radius: 10px; 
+}
+
+.container .quote{
+    text-align: center;
+    padding-top: 40px;
+}
+
+
+
